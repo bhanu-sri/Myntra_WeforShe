@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Container, Row, Col, Card } from 'react-bootstrap';
+import { Navbar, Container, Row, Col, Card } from 'react-bootstrap';
 import './App.css';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
               width="100"
               height="40"
               className="d-inline-block align-top"
-             
+             alt ="abc"
             />
           </Navbar.Brand>
         </Container>
@@ -24,7 +24,7 @@ function App() {
           <Col md={12} className="text-center">
             <h1>Team TrendPioneers</h1>
             <p>Swastika Pradhan, Bhanu Sri Kowru, Manya Rai</p>
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*ud2gT8avDkWl5lJSkjkhKA.png" alt="Team Image" className="team-image mx-auto d-block"/>
+            <img src="https://miro.medium.com/v2/resize:fit:1400/1*ud2gT8avDkWl5lJSkjkhKA.png" alt="Team" className="team-image mx-auto d-block"/>
           </Col>
         </Row>
         
