@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Overview of Our Solutions (a website)
+Myntra - WeforShe Hackathon
 
+- Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -45,3 +47,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+## Visit Website
+https://myntra-hackathon-website.netlify.app/
