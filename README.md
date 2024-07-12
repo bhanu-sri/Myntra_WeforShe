@@ -48,4 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Visit Website
 ![image](https://github.com/user-attachments/assets/c8d51d8d-3ddf-44d5-ba5a-24d8506ec7da)
+![image](https://github.com/user-attachments/assets/abf823a9-8541-45d4-98f1-b4ae9b10be7a)
+
+
 https://myntra-hackathon-website.netlify.app/
