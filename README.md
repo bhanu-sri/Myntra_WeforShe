@@ -37,7 +37,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Visit Website
 ![image](https://github.com/user-attachments/assets/c8d51d8d-3ddf-44d5-ba5a-24d8506ec7da)
-![image](https://github.com/user-attachments/assets/abf823a9-8541-45d4-98f1-b4ae9b10be7a)
+![image](https://github.com/user-attachments/assets/56448218-78f5-4c9a-b0b5-5a2ed5d7ca1c)
 ![image](https://github.com/user-attachments/assets/80547f86-8c6b-4aeb-af33-cd9de8cd1705)
 
 
